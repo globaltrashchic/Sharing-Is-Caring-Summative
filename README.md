@@ -1,3 +1,15 @@
+ Summative-for-Tor
+# WebDesign Claranz Geh
+Web Design Summative Assessment 
+# WEB14104: Web Development Workshop
+
+**Name:** Claranz Geh
+
+**Student No:** 96396116
+
+**Course:** BA(Hons) Web Media Production Level 1
+**Unit Code:** WEB14104
+
 # Sharing-Is-Caring-Summative
 [Shine](file:///Users/claranzgeh/Desktop/Web%20Media/sharing%20is%20caring/index.html)
 
@@ -61,19 +73,6 @@ Link to your project published on GitHub Pages, remember gh-pages from week 2?
 ## Summative Presentation
 
 [Summative](https://drive.google.com/file/d/0B4tsIdp7PwXNQm95aEEwc2NZMEE/view?usp=sharing)
-
-# Summative-for-Tor
-# WebDesign Claranz Geh
-Web Design Summative Assessment 
-# WEB14104: Web Development Workshop
-
-**Name:** Claranz Geh
-
-**Student No:** 96396116
-
-**Course:** BA(Hons) Web Media Production Level 1
-**Unit Code:** WEB14104
-
 
 ### Introduction
 I am the only international student in this course spending 13 hours flying all the way from Malaysia to join Ravensbourne.  
