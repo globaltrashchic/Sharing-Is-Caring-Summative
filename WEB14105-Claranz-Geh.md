@@ -74,10 +74,6 @@ Link to your project published on GitHub Pages, remember gh-pages from week 2?
 
 [Summative](https://drive.google.com/file/d/0B4tsIdp7PwXNQm95aEEwc2NZMEE/view?usp=sharing)
 
-### Introduction
-I am the only international student in this course spending 13 hours flying all the way from Malaysia to join Ravensbourne.  
-
-
 #### Blog Posts
 
 
