@@ -1,7 +1,7 @@
 # Sharing-Is-Caring-Summative
 [Shine](file:///Users/claranzgeh/Desktop/Web%20Media/sharing%20is%20caring/index.html)
 
-
+Website - https://globaltrashchic.github.io/Sharing-Is-Caring-Summative/.
 
 Wireframes
 Research GDoc including target audiences, content structure & copy, and make sure I have permissions to comment on it
